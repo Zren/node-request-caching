@@ -1,6 +1,6 @@
 {
   "name": "node-request-caching",  
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Matteo Agosti <matteo@matteoagosti.com>",
   "description": "node-request-caching but using the request npm module.",  
   "scripts": {
